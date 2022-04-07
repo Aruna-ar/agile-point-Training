@@ -1,0 +1,16 @@
+h2{
+    padding-top: 20px;
+    text-align: center;
+    color: navajowhite;
+}
+
+.categories{
+    text-transform: uppercase;
+    text-align: center;
+    background-color:lightcyan;
+  width: 500px;
+  height: 5px;
+  border: 1px solid yellow;
+  padding: 10px;
+  margin: 20px;
+}
