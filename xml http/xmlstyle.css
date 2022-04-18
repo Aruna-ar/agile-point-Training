@@ -12,9 +12,33 @@ div,
   
   padding: 15px;
   margin: 20px;
+  cursor: pointer;
+  font-size: 20px;
 }
 
-.test{
-  background-color:lightcyan;
+
+.header{
+  background-color: palegreen;
   border: 1px solid yellow;
+  width: 1200px;;
+  height:50px;
+  font-size: large;
+
+}
+
+.test:hover{
+  color:blueviolet;
+  background-color:lightcyan;
+  border: 2px solid yellow ;
+}
+
+.conceptDisplay{
+  text-align: center;
+    color:blue;
+  width: 500px;
+  
+  padding: 15px;
+  margin: 20px;
+  background-color:peru;
+  border: 1px solid black;
 }
